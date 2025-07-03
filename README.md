@@ -25,7 +25,7 @@
 ## 📫 Contact Me
 - 📧 Email: durgesh.yourmail@example.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-sharma-62a25b222/)  
-- 🌐 Portfolio: ([https://your-portfolio.vercel.app](https://my-portfolio-xi-seven-92.vercel.app/))
+- 🌐 Portfolio: ([https://durgeshsharrma.app](https://my-portfolio-xi-seven-92.vercel.app/))
 
 Let's connect and build something awesome! 🚀
 
