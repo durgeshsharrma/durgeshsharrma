@@ -12,7 +12,6 @@
 
 ## 🧠 Currently Learning
 - DSA in Java  
-- Flutter for app development  
 - System Design basics
 
 ## 💼 Projects
