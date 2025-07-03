@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Durgesh Sharma
 
 💻 Full Stack Developer (MERN) | AI Enthusiast  
-🚀 Building creative web apps & exploring AI integrations like voice & image recognition
+🚀 Building creative web apps & exploring AI integrations like voice & Text Recognition
 
 ## 🔧 Tech Stack
 - React.js, Node.js, Express, MongoDB
