@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Durgesh Sharma
 
-<!--
-**durgeshsharrma/durgeshsharrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN) | AI Enthusiast  
+🚀 Building creative web apps & exploring AI integrations like voice & image recognition
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- React.js, Node.js, Express, MongoDB
+- Java , Javascript
+- Tailwind , Bootstrap
+- JWT, Cloudinary, REST APIs , DaisyUi , Postman
+- Rendor , Vercel , Aws Ec2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- DSA in Java  
+- Flutter for app development  
+- System Design basics
+
+## 💼 Projects
+- 🏥 Hospitrax – Hospital Management System with Admin, Doctor, and Patient Roles  
+- 🗣️ Vibra – AI-Powered Virtual Assistant with Voice Interaction  
+- 🎨 Url Shortner 
+- 📋 WanderListng- The Fond Of Travellers
+  
+
+## 📫 Contact Me
+- 📧 Email: durgesh.yourmail@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-sharma-62a25b222/)  
+- 🌐 Portfolio: ([https://your-portfolio.vercel.app](https://my-portfolio-xi-seven-92.vercel.app/))
+
+Let's connect and build something awesome! 🚀
+
