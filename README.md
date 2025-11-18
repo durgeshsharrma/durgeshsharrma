@@ -22,7 +22,7 @@
   
 
 ## 📫 Contact Me
-- 📧 Email: durgesh.yourmail@example.com  
+- 📧 Email: durgeshshrma14@example.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-sharma-62a25b222/)  
 - 🌐 Portfolio: ([https://durgeshsharrma.app](https://my-portfolio-xi-seven-92.vercel.app/))
 
